@@ -52,8 +52,7 @@
 **Инструменты:** User Stories, Use Cases, SRS, Confluence
 
 **Артефакты:**
-- [Спецификация требований (SRS)](ссылка)
-- [Use Cases](ссылка)
+- [Спецификация требований (SRS) и Use Cases](https://docs.google.com/document/d/14dcBfmt0cX8IkjSNTlY2aKB65iI3dJ4Ys_BXqE8FHxc/edit?usp=sharing)
 
 ---
 
