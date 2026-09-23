@@ -102,7 +102,7 @@
 **Артефакты:**
 - [Комплект документации](https://github.com/MarinaTheBoss/MarinaTheBoss/tree/main/projects/IoT-приложение%20Stets%20Home/Комплект%20документации)
 - [User Story Mapping](https://miro.com/welcomeonboard/MUNxakEvV3BNNlhxU2sxMjJmSVNuK1dRckNHK3pmK1JUZHNmam81eWdsYmEwVytJb3d5d2tCU1RCSmFkQ3R0NDBsbzl4d1ZEQzlnNUdUanBpL1BHd0dNd1p6UG5UVklRUU43cldVRDFZTis2WXkwNWZTTFFKNVcxb0JpRlNvOU1Bd044SHFHaVlWYWk0d3NxeHNmeG9BPT0hdjE=?share_link_id=663888905540)
-- [Прототип интерфейса](https://github.com/MarinaTheBoss/MarinaTheBoss/tree/main/projects/интернет-магазин%20%22Накарабине%22)
+- [Прототип интерфейса](https://www.figma.com/design/YoQhRApvjei4tMmXVVGk3L/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-Stets--Copy-?node-id=4-581&t=6Hv7uNRjeVUHr2zQ-1)
 
 ---
 
