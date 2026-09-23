@@ -124,7 +124,7 @@
 **Результат:** обоснованная рекомендация по выбору региона для бурения с минимизацией финансовых рисков.
 
 **Артефакты:**
-- [Jupyter Notebook с анализом](ссылка)
+- [Jupyter Notebook с анализом](https://github.com/MarinaTheBoss/MarinaTheBoss/blob/main/projects/well-location/well_location_analysis.ipynb)
 
 ---
 
