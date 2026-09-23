@@ -7,7 +7,7 @@
 **Мои компетенции:**
 - Сбор, анализ и формализация требований (User Stories, Use Cases, SRS)
 - Моделирование бизнес-процессов (BPMN, UML: activity, sequence, state, component)
-- Проектирование API (REST, Swagger/OpenAPI, Postman)
+- Проектирование API (REST, Postman)
 - Работа с данными (SQL, PostgreSQL, Python: Pandas, NumPy, scikit-learn)
 - Прототипирование интерфейсов (Figma, карты экранов и переходов)
 - Ведение документации (Confluence, Jira, ТЗ, ПМИ)
@@ -62,11 +62,10 @@
 
 **Что сделано:**
 - Определила эндпоинты, методы и форматы запросов/ответов (**JSON**)
-- Подготовила спецификацию в **Swagger/OpenAPI**
 - Выполнила ручное тестирование эндпоинтов в **Postman**
 - Построила **UML-диаграммы последовательности** для описания взаимодействия систем
 
-**Инструменты:** REST API, Swagger/OpenAPI, Postman, UML Sequence
+**Инструменты:** REST API, Postman, UML Sequence
 
 **Артефакты:**
 - [UML Sequence Diagram](https://github.com/MarinaTheBoss/MarinaTheBoss/tree/main/projects/Otium)
@@ -85,8 +84,7 @@
 **Инструменты:** ER-диаграммы, SQL, нормализация
 
 **Артефакты:**
-- [ER-диаграмма](ссылка)
-- [SQL-скрипт создания таблиц](ссылка)
+- [ER-диаграммы](https://github.com/MarinaTheBoss/MarinaTheBoss/tree/main/projects/интернет-магазин%20%22Накарабине%22)
 
 ---
 
