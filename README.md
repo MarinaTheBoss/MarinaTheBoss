@@ -100,27 +100,9 @@
 **Инструменты:** User Stories, Use Cases, Figma, Confluence
 
 **Артефакты:**
-- [Комплект документации](ссылка)
-- [Прототип интерфейса](ссылка)
-
----
-
-### 🧪 Платформа «Капсула» — тестирование и документация
-
-**Задача:** провести функциональное тестирование веб-приложения и подготовить документацию.
-
-**Что сделано:**
-- Провела функциональное тестирование веб-приложения
-- Зафиксировала дефекты и оформила **баг-репорты**
-- Разработала **программу и методику испытаний (ПМИ)**
-- Написала **руководство пользователя** для продукта
-
-**Инструменты:** Функциональное тестирование, баг-репорты, ПМИ, руководство пользователя
-
-**Артефакты:**
-- [Фрагмент ПМИ](ссылка)
-- [Примеры баг-репортов](ссылка)
-- [Руководство пользователя](ссылка)
+- [Комплект документации](https://github.com/MarinaTheBoss/MarinaTheBoss/tree/main/projects/IoT-приложение%20Stets%20Home/Комплект%20документации)
+- [User Story Mapping](https://miro.com/welcomeonboard/MUNxakEvV3BNNlhxU2sxMjJmSVNuK1dRckNHK3pmK1JUZHNmam81eWdsYmEwVytJb3d5d2tCU1RCSmFkQ3R0NDBsbzl4d1ZEQzlnNUdUanBpL1BHd0dNd1p6UG5UVklRUU43cldVRDFZTis2WXkwNWZTTFFKNVcxb0JpRlNvOU1Bd044SHFHaVlWYWk0d3NxeHNmeG9BPT0hdjE=?share_link_id=663888905540)
+- [Прототип интерфейса](https://github.com/MarinaTheBoss/MarinaTheBoss/tree/main/projects/интернет-магазин%20%22Накарабине%22)
 
 ---
 
