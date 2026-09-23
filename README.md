@@ -36,10 +36,8 @@
 
 **Артефакты:**
 - [BPMN-диаграммы AS-IS и TO-BE](https://github.com/MarinaTheBoss/MarinaTheBoss/tree/main/projects/vita-clinic/bpmn)
-- [User Story Map](ссылка)
-- [User Story Map](ссылка)
-- [Прототип приложения](ссылка) (https://www.figma.com/design/FUrjXV87mXgMumZ8htiFLB/%D0%94%D0%97-%D0%A1%D0%BF%D1%80%D0%B8%D0%BD%D1%82-6-v.2--Copy-?node-id=0-1&t=RJSLKtA42GpK03nz-1)
-
+- [User Story Map](https://miro.com/app/board/uXjVG3NqdBo=/?share_link_id=941068763856)
+- [Прототип приложения](https://www.figma.com/design/FUrjXV87mXgMumZ8htiFLB/%D0%94%D0%97-%D0%A1%D0%BF%D1%80%D0%B8%D0%BD%D1%82-6-v.2--Copy-?node-id=0-1&t=RJSLKtA42GpK03nz-1) 
 ---
 
 ### 💬 Мессенджер Chatty — сбор и структурирование требований
