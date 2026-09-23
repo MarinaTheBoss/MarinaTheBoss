@@ -15,8 +15,8 @@
 **Контакты:**
 - Email: marina.yarmoshkaeva@yandex.ru
 - Telegram: [@ma_ri_sh_ka_alex](https://t.me/ma_ri_sh_ka_alex)
-- HH: [ссылка на резюме]
-
+- HH: https://volgograd.hh.ru/resume/b7c9ac65ff10f26db00039ed1f663433303237
+ 
 ---
 
 ## Проекты
