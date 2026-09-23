@@ -134,7 +134,7 @@
 |-----------|-------------|
 | **Моделирование** | BPMN 2.0, UML (activity, sequence, state, component), ER-диаграммы |
 | **Требования** | User Stories, Use Cases, SRS, ТЗ, бэклог, приоритизация |
-| **API и интеграции** | REST, Swagger/OpenAPI, Postman, JSON |
+| **API и интеграции** | REST API, Postman, JSON |
 | **Данные** | SQL, PostgreSQL, Python (Pandas, NumPy, Matplotlib, scikit-learn) |
 | **Документация** | Confluence, Jira, ПМИ, руководства пользователя |
 | **Прототипирование** | Figma, карты экранов и переходов |
