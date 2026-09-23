@@ -69,7 +69,7 @@
 **Инструменты:** REST API, Swagger/OpenAPI, Postman, UML Sequence
 
 **Артефакты:**
-- [UML Sequence Diagram](ссылка)
+- [UML Sequence Diagram](https://github.com/MarinaTheBoss/MarinaTheBoss/tree/main/projects/Otium)
 
 ---
 
