@@ -69,9 +69,7 @@
 **Инструменты:** REST API, Swagger/OpenAPI, Postman, UML Sequence
 
 **Артефакты:**
-- [OpenAPI-спецификация (YAML)](ссылка)
 - [UML Sequence Diagram](ссылка)
-- [Коллекция Postman](ссылка)
 
 ---
 
